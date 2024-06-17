@@ -1,0 +1,30 @@
+.result input{
+    width: 410px;
+    margin-bottom: 5px;
+}
+.table tr td input{
+    width: 100px;
+    height: 66px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%c;
+    background-color: #f0f0f0; 
+}
+table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: aquamarine;
+}
